@@ -273,13 +273,8 @@ body{
 .contactme
 {
     padding-top: 50px;
-<<<<<<< Updated upstream
     background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)),url(img/mydesk.jpg);
-=======
-    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)),url(img/my\ desk.jpg);
->>>>>>> Stashed changes
     background-position: center;
-
     background-size: cover;
     background-attachment: fixed; 
     color: #fff;
@@ -327,10 +322,6 @@ body{
     margin-top: 50px;
     color: #fff;
     padding-top: 10px;
-}
-fa-heart-o
-{
-    color: red;
 }
 
 /*-------social-icons-------*/
