@@ -195,6 +195,7 @@ body{
     background: #fff;
     list-style: none;
 }
+
 /*--------education -------*/
 .education
 {
@@ -215,9 +216,15 @@ body{
     padding-bottom: 30px;
     background: #f9f9f9;
 }
-.priorresume h3
+.center
 {
-    margin-bottom: 50px;
+    margin: 0 auto;
+    text-align: center;
+    width:50%;
+}
+.left
+{
+    float: left;
 }
 
 /*---------Services---------*/
